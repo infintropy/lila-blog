@@ -13,4 +13,4 @@ features:
   - page embeds
 ```
 
-[This is a link to](/other)
+[This is a link to](other.md)
